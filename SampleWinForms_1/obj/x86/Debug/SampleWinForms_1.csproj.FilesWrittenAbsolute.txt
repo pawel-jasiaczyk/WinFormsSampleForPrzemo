@@ -1,0 +1,10 @@
+/home/pawel/Projekty/Mono/SampleWsdlP24/SampleWinForms_1/SampleWinForms_1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pawel/Projekty/Mono/SampleWsdlP24/SampleWinForms_1/SampleWinForms_1/bin/Debug/SampleWinForms_1.exe.mdb
+/home/pawel/Projekty/Mono/SampleWsdlP24/SampleWinForms_1/SampleWinForms_1/bin/Debug/SampleWinForms_1.exe
+/home/pawel/Projekty/Mono/SampleWsdlP24/SampleWinForms_1/SampleWinForms_1/obj/x86/Debug/SampleWinForms_1.exe
+/home/pawel/Projekty/Mono/SampleWsdlP24/SampleWinForms_1/SampleWinForms_1/obj/x86/Debug/SampleWinForms_1.exe.mdb
+/home/pawel/Projekty/Mono/SampleWinForms_1/SampleWinForms_1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pawel/Projekty/Mono/SampleWinForms_1/SampleWinForms_1/bin/Debug/SampleWinForms_1.exe.mdb
+/home/pawel/Projekty/Mono/SampleWinForms_1/SampleWinForms_1/bin/Debug/SampleWinForms_1.exe
+/home/pawel/Projekty/Mono/SampleWinForms_1/SampleWinForms_1/obj/x86/Debug/SampleWinForms_1.exe
+/home/pawel/Projekty/Mono/SampleWinForms_1/SampleWinForms_1/obj/x86/Debug/SampleWinForms_1.exe.mdb
